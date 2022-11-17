@@ -1,0 +1,16 @@
+﻿  SDL_classes.cpp
+C:\Users\tjaffe\source\repos\App\App\SDL_classes.cpp(10,20): error C2082: redefinition of formal parameter 'win'
+C:\Users\tjaffe\source\repos\App\App\SDL_classes.cpp(17,22): error C2082: redefinition of formal parameter 'ren'
+  main.cpp
+C:\Users\tjaffe\source\repos\App\App\main.cpp(47,26): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(49,19): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(51,26): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(53,22): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(55,22): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(57,26): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(59,22): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(61,22): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(63,22): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(65,22): error C2065: 'ren': undeclared identifier
+C:\Users\tjaffe\source\repos\App\App\main.cpp(67,21): error C2065: 'ren': undeclared identifier
+  Generating Code...
